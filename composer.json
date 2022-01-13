@@ -2,6 +2,7 @@
     "name": "lcsschmidt/horizon",
     "description": "LOG library for php",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Horizon\\": "src/"
