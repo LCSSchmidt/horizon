@@ -5,7 +5,11 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Horizon\\": "src/"
+            "Horizon\\": "src/",
+            "Horizon\\Service\\": "src/service/",
+            "Horizon\\Database\\": "src/database/",
+            "Horizon\\Log\\": "src/log/",
+            "Horizon\\Helper\\": "src/helper/"
         }
     },
     "require": {

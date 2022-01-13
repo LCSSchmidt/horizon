@@ -3,8 +3,8 @@
 namespace Horizon;
 
 use \Horizon\Service\RequestService;
+use \Horizon\Service\ApplicationService;
 use \Horizon\log\OperationTypeEnum;
-use Horizon\Service\ApplicationService;
 
 class Log {
 
