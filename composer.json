@@ -1,0 +1,10 @@
+{
+    "name": "lcsschmidt/horizon",
+    "description": "LOG library for php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Horizon\\": "src/"
+        }
+    }
+}
